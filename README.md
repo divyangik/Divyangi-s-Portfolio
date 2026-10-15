@@ -26,10 +26,6 @@ TanStack Start · React 19 · Vite · Tailwind CSS 4 · Motion · Netlify Forms 
 ```bash
 npm install
 npm run dev          # http://localhost:3000
-# or, with Netlify Forms emulation:
-netlify dev
-```
 
-## Updating content
 
 All text lives in `src/content/resume.ts`. When the resume changes, update that file and replace `public/Divyangi_Kanchan_Resume.docx`.
